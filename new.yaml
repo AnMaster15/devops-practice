@@ -1,0 +1,17 @@
+"apple":"this is fruit"
+1:"my name is an"
+# key--->value
+--- #seperation of document
+# list
+-apple
+-mango
+-banana
+-DOG
+# it is case sensitive
+---
+# block
+cities:
+ -new delhi
+ -mumbai
+#  space ka dyan rakhna
+... #end of document

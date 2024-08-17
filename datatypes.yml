@@ -1,0 +1,29 @@
+myself: "anchit" #sting variables
+fruit: apple
+
+bio: |
+  my name is anchit
+  i am a student
+  i am a coder
+  i am a developer
+  i am a learner
+
+#write a single in multiple lines
+message: >
+hello
+mister
+dj
+
+booleanvalues: no #n,N,false
+# true:yes,y
+
+# specify the type
+zero: !!int 0  #data type
+
+#null
+surname: !!null Null
+~: this is a null key
+
+#date and time
+
+date: 2001-12-15T02:59:43.10 +5:30
